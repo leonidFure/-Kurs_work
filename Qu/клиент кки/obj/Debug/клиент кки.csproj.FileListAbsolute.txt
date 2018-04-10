@@ -1,0 +1,9 @@
+E:\клиент кки\клиент кки\bin\Debug\клиент кки.exe.config
+E:\клиент кки\клиент кки\bin\Debug\клиент кки.exe
+E:\клиент кки\клиент кки\bin\Debug\клиент кки.pdb
+E:\клиент кки\клиент кки\obj\Debug\клиент кки.csprojResolveAssemblyReference.cache
+E:\клиент кки\клиент кки\obj\Debug\клиент_кки.Form1.resources
+E:\клиент кки\клиент кки\obj\Debug\клиент_кки.Properties.Resources.resources
+E:\клиент кки\клиент кки\obj\Debug\клиент кки.csproj.GenerateResource.Cache
+E:\клиент кки\клиент кки\obj\Debug\клиент кки.exe
+E:\клиент кки\клиент кки\obj\Debug\клиент кки.pdb
