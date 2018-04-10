@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Учёба\TestCourseWork(TcpServer)\TestCourseWork(TcpServer)\bin\Debug\TestCourseWork(TcpServer).exe
+C:\Users\user\Desktop\Учёба\TestCourseWork(TcpServer)\TestCourseWork(TcpServer)\bin\Debug\TestCourseWork(TcpServer).pdb
+C:\Users\user\Desktop\Учёба\TestCourseWork(TcpServer)\TestCourseWork(TcpServer)\obj\x86\Debug\TestCourseWork(TcpServer).exe
+C:\Users\user\Desktop\Учёба\TestCourseWork(TcpServer)\TestCourseWork(TcpServer)\obj\x86\Debug\TestCourseWork(TcpServer).pdb
+C:\Users\user\Desktop\Учёба\TestCourseWork(TcpServer)\TestCourseWork(TcpServer)\obj\x86\Debug\TestCourseWork(TcpServer).csprojResolveAssemblyReference.cache
